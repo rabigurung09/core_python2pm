@@ -71,7 +71,7 @@ user1=input("Enter your favourate player")
 user2=input("Enter your favourate player")
 list_11.append(user)
 list_11.append(user1)
-list_11.append(user2)git
+list_11.append(user2)
 print(list_11)
 
 
