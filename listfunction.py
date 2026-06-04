@@ -73,6 +73,18 @@ list_11.append(user)
 list_11.append(user1)
 list_11.append(user2)
 print(list_11)
+# ====min()===
+num_list=[10,50,60,80,90,50,20,30,20,30,30]
+print(min(num_list))
+# output:10
+# 12=====max()
+num_list=[10,50,60,80,90,50,20,30,20,30,30]
+print(max(num_list))
+# output:90
+# 12=====sum()
+num_list=[10,50,60,80,90,50,20,30,20,30,30]
+print(sum(num_list))
+# output:470
 
 
 

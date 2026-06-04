@@ -65,7 +65,33 @@ print(s.title())
 """
 # Python programing
 # Python Programing
+player=[input("enter yor fav player")]
+player_2=input("enter yor fav player")
+player_3=input("enter yor fav player")
+player.append(player_2)
+player.append(player_3)
+print(player)
 
 
+
+
+text = "saroj  ram"
+print(text.split())   #it converts string into list
+print(list(text))   #it converts the every character of string into list. 
+user=input("enter your fav player").split()
+user_1=input("enter your fav player")
+user_2=input("enter your fav player")
+user.append(user_1)
+user.append(user_2)
+print(user)
+# ['messi', 'nemar', 'ro']
+# 
+"""Write a Python program that:
+
+Takes a sentence from the user.
+Takes a word to search.
+Uses only:
+find()
+index()"""
 
 
