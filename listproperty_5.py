@@ -32,5 +32,5 @@ list_1=[10,50,60,"saroj",55.5]
 lst_2=["a","b"]
 result=list_1 +[lst_2]
 print(result)
-
+# output [10, 50, 60, 'saroj', 55.5, ['a', 'b']]
 
